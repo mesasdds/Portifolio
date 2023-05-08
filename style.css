@@ -196,8 +196,8 @@ body{
 
 #siteclima{
     height: 570px;
-    width: 750px;
-    left: 41%;
+    width: 900px;
+    left: 23%;
     position: absolute;
     top: 770px;
 }
@@ -209,14 +209,13 @@ body{
     left: 15%;
     width: 300px;
     text-shadow: 0 1px 3px rgba(0,0,0,.8);
-    background-color: red;
 }
 
 
 .siteimg2{
     top: 15%;
     left: 50%;
-    width: 50% ;
+    width: 49% ;
     display: inline;
     position: absolute;
     border-radius: 5px;
@@ -226,9 +225,9 @@ body{
 
 .sitefullimg2{
     display: inline;
-    width: 40%;
+    width: 49%;
     position: absolute;
-    left: 5%;
+    left: 0%;
     top:15%;
     border-radius: 5px;
     cursor: pointer;
@@ -260,7 +259,6 @@ body{
     left: 15%;
     width: 500px;
     text-shadow: 0 1px 3px rgba(0,0,0,.8);
-    background-color: red;
 }
 
 
