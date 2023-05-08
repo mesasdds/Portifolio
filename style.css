@@ -19,7 +19,9 @@ body{
 }
 
 .nav-link{
-    color: #fff;
+    color: #15ab92;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-weight: 600;
 }
 
 .nav:hover{
@@ -51,6 +53,7 @@ body{
     top: 30%;
     left: 20%;
     color: #fff;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .block-resume h2{
@@ -103,18 +106,93 @@ body{
     width: 150px;
     position: absolute;
     right: 45%;
-    top: 5%;
-    color: #fff;
+    top: 1%;
+    color:#15ab92 ;
+    text-shadow: 0 1px 3px rgba(0,0,0,.8);
 }
 
 
 .siteg1{
-    background-color: rgb(28, 28, 133);
-    height: 500px;
+    height: 550px;
     width: 750px;
     position: absolute;
-    top: 25% ;
+    top: 15% ;
 }
+
+
+.h1g1{
+    color: #fff;
+    position: absolute;
+    left: 15%;
+    width: 50%;
+    text-shadow: 0 1px 3px rgba(0,0,0,.8);
+}
+
+.siteimg{
+    top: 10%;
+    left: 50%;
+    width: 50% ;
+    display: inline;
+    position: absolute;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sitefullimg{
+    display: inline;
+    width: 30%;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sitefullimg:hover{
+    width: 40%;
+    top:10%;
+    left: 5%;
+}
+
+.h2g1{
+    position: absolute;
+    left: 50%;
+    width: 60%;
+    top: 60%;
+    color: #fff;
+    font-size:larger;
+}
+
+.iconsg1{
+    position: absolute;
+    left: 75%;
+    top: 60%;
+    width: 150px;
+}
+
+.pg1{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    width: 350px;
+    color: #ffff;
+}
+
+
+.btn-outline-primary{
+    position: absolute;
+    left: 50%;
+    top: 87%;
+    width: 80px;
+}
+
+.btn-primary{
+    position: absolute;
+    left: 65%;
+    top: 87%;
+    width: 80px;
+}
+
 
 
 
