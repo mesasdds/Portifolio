@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     background-color: #0a0b0b;
+    width: 1296px;
 }
 
 
@@ -97,8 +98,8 @@ body{
 
 .second-box{
     background-color:#04090b ;
-    width: 100%;
-    height: 655px;
+    width: 1296px;
+    height: 2055px;
     position: relative;
 }
 
@@ -111,12 +112,13 @@ body{
     text-shadow: 0 1px 3px rgba(0,0,0,.8);
 }
 
+/***************** PROJETO G1 *********************/
 
-.siteg1{
+#siteg1{
     height: 550px;
     width: 750px;
     position: absolute;
-    top: 15% ;
+    top: 100px ;
 }
 
 
@@ -124,34 +126,30 @@ body{
     color: #fff;
     position: absolute;
     left: 15%;
-    width: 50%;
+    width: 20%;
     text-shadow: 0 1px 3px rgba(0,0,0,.8);
 }
 
 .siteimg{
-    top: 10%;
+    top: 15%;
     left: 50%;
     width: 50% ;
     display: inline;
     position: absolute;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .sitefullimg{
     display: inline;
-    width: 30%;
+    width: 40%;
     position: absolute;
     left: 5%;
-    top: 20%;
+    top:15%;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.sitefullimg:hover{
-    width: 40%;
-    top:10%;
-    left: 5%;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .h2g1{
@@ -194,10 +192,76 @@ body{
 }
 
 
+/***************** PROJETO CLIMA *********************/
+
+#siteclima{
+    height: 570px;
+    width: 750px;
+    left: 41%;
+    position: absolute;
+    top: 770px;
+}
+
+.h1prev{
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 15%;
+    width: 300px;
+    text-shadow: 0 1px 3px rgba(0,0,0,.8);
+    background-color: red;
+}
 
 
+.siteimg2{
+    top: 15%;
+    left: 50%;
+    width: 50% ;
+    display: inline;
+    position: absolute;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
+.sitefullimg2{
+    display: inline;
+    width: 40%;
+    position: absolute;
+    left: 5%;
+    top:15%;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
+.pg2{
+    position: absolute;
+    left: 50%;
+    top: 66%;
+    width: 350px;
+    color: #ffff;
+}
+
+/***************** PROJETO CADASTRO CLIENTES *********************/
+
+#cadastroclientes{
+    height: 570px;
+    width: 750px;
+    left: 0;
+    position: absolute;
+    top: 1400px;
+}
+
+.h1cadastra{
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 15%;
+    width: 500px;
+    text-shadow: 0 1px 3px rgba(0,0,0,.8);
+    background-color: red;
+}
 
 
 
