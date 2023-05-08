@@ -246,7 +246,7 @@ body{
 
 #cadastroclientes{
     height: 570px;
-    width: 750px;
+    width: 800px;
     left: 0;
     position: absolute;
     top: 1400px;
@@ -256,11 +256,70 @@ body{
     color: #fff;
     position: absolute;
     top: 0;
-    left: 15%;
+    left: 10%;
     width: 500px;
     text-shadow: 0 1px 3px rgba(0,0,0,.8);
 }
 
+
+.h2prog{
+    position: absolute;
+    left: 10%;
+    width: 60%;
+    top: 73%;
+    color: #fff;
+    font-size:larger;
+}
+
+
+
+.pg3{
+    position: absolute;
+    left: 10%;
+    top: 80%;
+    width: 350px;
+    color: #ffff;
+}
+
+.against{
+    position: absolute;
+    left: 60%;
+    top: 80%;
+}
+
+.btn-3{
+    margin-left: 120px;
+}
+
+
+.iconsg3{
+    position: absolute;
+    left: 33%;
+    top: 73%;
+    width: 150px;
+}
+
+.programimg3{
+    top: 15%;
+    left: 10%;
+    width: 40% ;
+    display: inline;
+    position: absolute;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.programfull3{
+    display: inline;
+    width: 41%;
+    position: absolute;
+    left: 53%;
+    top:15%;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
 
 
