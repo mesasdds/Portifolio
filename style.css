@@ -72,6 +72,19 @@ body{
     color: #fff;
 }
 
+.gitmark1{
+    width: 10%;
+    position:absolute;
+    left: 150px;
+    top: 480px;
+}
+
+.linkedinmark1{
+    width: 10%;
+    position:absolute;
+    left: 250px;
+    top: 500px;
+}
 
 
 /*****        CONTEUDO IMG RESUME         ******/
@@ -320,6 +333,49 @@ body{
     cursor: pointer;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+/************* SOBREM IM ***************************/
+
+#sobre{
+    width: 100%;
+    padding-left: 5% ;
+    padding-top: 5%;
+    height: 600px;
+}
+
+.container-sobre{
+    width: 70%;
+    height: 500px;
+    position: relative;
+}
+
+.container-sobre h1{
+    color: #fff;
+}
+
+.container-sobre p{
+    font-family:cursive;
+    font-size: 0.9rem;
+    color: #ffff;
+    border-top: solid black 2px;
+}
+
+.imggit{
+    width: 150px;
+    position: absolute;
+    left: 50%;
+    top: 59%;
+}
+
+.imglink{
+    width: 150px;
+    position: absolute;
+    left: 20%;
+    top: 60%;
+}
+
+
+
 
 
 
